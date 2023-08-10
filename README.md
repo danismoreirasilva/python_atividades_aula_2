@@ -1,1 +1,1 @@
-# python_atividades_aula_2
+# Lista Aula 2 - Laços de Repetição
